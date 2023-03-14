@@ -23,13 +23,17 @@ HTML table extracted into a Pandas DataFrame
 Answers to the following questions:
 
  - How many months exist on Mars? 12
- - How many Martian days' worth of data are there? 1867
- - Which month, on average, has the lowest temperature? The highest? Highest 8, lowest 3
+ 
+ - How many Martian (and not Earth) days worth of data exist in the scraped dataset? 1867
+ 
+ - What are the coldest and the warmest months on Mars (at the location of Curiosity)? Highest 8, lowest 3
  
     ![AveragetempByMonth](https://github.com/lintubaby5/webscraping-challenge/blob/main/Images/Temp_by_month.png)
- - Which month, on average, has the lowest atmospheric pressure? The highest? Highest 9, lowest 6
+    
+ - Which months have the lowest and the highest atmospheric pressure on Mars? Highest 9, lowest 6
  
     ![AveragepressurebyMonth](https://github.com/lintubaby5/webscraping-challenge/blob/main/Images/Pressure_by_month.png)
+    
  - How many terrestrial days exist in a Martian year? around 700.
  
     ![TempByTerrestrialDate](https://github.com/lintubaby5/webscraping-challenge/blob/main/Images/Temp_by_terrestrial_date.png)
